@@ -80,8 +80,8 @@ sui-launchpad-smart-contract/
 
 ```bash
 # Clone the repository
-git clone https://github.com/rustjesty/sui-launchpad-smart-contract.git
-cd sui-launchpad-smart-contract
+git clone https://github.com/osmanx8/sui-launchpad-smartcontract.git
+cd sui-launchpad-smartcontract
 
 # Install dependencies
 sui move build
@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Wiki](https://github.com/your-username/sui-launchpad-smart-contract/wiki)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/sui-launchpad-smart-contract/discussions)
 - **Issues**: [GitHub Issues](https://github.com/your-username/sui-launchpad-smart-contract/issues)
-- **Telegram**: [@soljesty](https://t.me/soljesty)
+- **Telegram**: [@soljesty](https://t.me/web3_maxim)
 
 ## 🙏 Acknowledgments
 
