@@ -1,0 +1,12 @@
+rpc =  "https://sui-rpc.web3lab.network"
+faucet =  "https://sui-faucet.web3lab.network/gas"
+
+###Seapad
+SPT=0x3de6d14d5b498dc0a2f6c3a7c94ae1f1daf5705a8ae9455654cf51310ae91d74
+USDT=0xa21aceab350e25089e2c736fcf96d9c06fbe9cb8d48b542e1966035ddfa58f11
+Admin=0x29f84931b97d287ebc5e917b1f248bfdad273311cc6e62e0fafcacab3dabe7c6
+PackageID=0xbd0259e5433ef6aea1c2f7b01256c775aa7972f4fd0f3d68cbe4d7ed8af9120a
+
+###Staking
+StakeConfig=0x316729465f51aebe6102356d57e7e670fcb05f122edd7107ac4ed1f763f18f45
+PackageId=0xc0de653bff2ac5a0fd78b659180c104b211eb2681abafe3c782d5f00b0276717
